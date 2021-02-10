@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "test_moves1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_moves1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_moves2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_moves2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_moves3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_moves3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_moves4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_moves4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_neighbor1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_neighbor1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_neighbor2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_neighbor2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_neighbor3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_neighbor3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "test_bfs1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_bfs1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 8
+    },
+    {
+      "name": "test_bfs2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_bfs2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 8
+    },
+    {
+      "name": "test_bfs3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_bfs3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 8
+    },
+    {
+      "name": "test_bfs4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_bfs4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 8
+    },
+    {
+      "name": "test_bfs5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest bfs_maze_tester.py::test_bfs5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 8
+    }
+  ]
+}
