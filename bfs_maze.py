@@ -97,7 +97,6 @@ class Agent():
             frontier = next_level_frontier
 
 
-
 def main():
     """Create a maze, solve it with BFS, and console-animate."""
 
